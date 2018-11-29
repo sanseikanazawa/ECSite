@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+p{
+text-align:center;
+}
+table.list-table{
+margin-left:auto;
+margin-right:auto;
+}
+
+.create{
+background-color:#EEEEEE;
+padding:20px;
+border-radius:10px;
+}
+
+table.list-table td{
+border-left:double 2px;
+width:65%;
+}
+
+
